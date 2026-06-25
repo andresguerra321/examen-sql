@@ -7,9 +7,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 La estructura está normalizada para asegurar la integridad referencial y facilitar la extracción de datos analíticos complejos sobre ventas, preferencias de clientes y popularidad de los productos.
 
 ## Diagrama Entidad-Relación (Modelo Lógico y Físico)
-
-A continuación, se presenta la evidencia visual del modelo implementado. 
-*Nota: Este diagrama es generado directamente mediante código Mermaid para visualización nativa en GitHub, cumpliendo el requisito de no requerir software externo para abrirlo.*
+Hecho con una extension nativa de github, llamada mermaid
 
 ```mermaid
 erDiagram
