@@ -96,7 +96,9 @@ erDiagram
     PEDIDO ||--o{ PEDIDO_COMBO : "contiene"
     COMBO ||--o{ PEDIDO_COMBO : "es ordenado en"
 ```
-
+##Modelo fisico:
+A continuacion se importa el modelo fisico realizado a traves de DrawSQl
+![Modelo fisico](modelo_fisico.png)
 ## Instrucciones de Ejecución
 
 Para ejecutar este proyecto en un entorno MySQL (como MySQL Workbench, phpMyAdmin, o consola), siga este orden estricto:
