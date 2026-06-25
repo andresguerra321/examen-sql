@@ -96,11 +96,11 @@ erDiagram
     PEDIDO ||--o{ PEDIDO_COMBO : "contiene"
     COMBO ||--o{ PEDIDO_COMBO : "es ordenado en"
 ```
-# #Modelo fisico:
+## Modelo físico
 A continuacion se importa el modelo fisico realizado a traves de DrawSQl
 ![Modelo fisico](modelo_fisico.png)
 
-## Modelo logico:
+## Modelo lógico
 
 Asi mismo, se hace el analisis del modelo logico para determinar como funciona el sistema de esta base de datos:
 ![modelo logico](modelo_logico.png)
