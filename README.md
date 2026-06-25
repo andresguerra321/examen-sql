@@ -8,7 +8,7 @@ La estructura está normalizada para asegurar la integridad referencial y facili
 
 ## Modelo físico
 A continuacion se importa el modelo fisico realizado a traves de DrawSQl
-![Modelo fisico](modelo_fisico.png)
+![Modelo fisico](modelo_fisicoo.png)
 
 ## Modelo lógico
 
